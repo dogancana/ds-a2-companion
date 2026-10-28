@@ -1,0 +1,14 @@
+---
+description: Keep this public repository free of personal information
+alwaysApply: true
+---
+
+# No personal information
+
+This repository is public. Docs, code, comments, commit messages, and plans must not mention:
+
+- The author's other projects, employers, or accounts
+- The author's familiarity with tools, languages, or stacks
+- Names, usernames, emails, or any other personal detail
+
+Write recommendations in terms of the project (constraints, fit, trade-offs), not the person working on it.
